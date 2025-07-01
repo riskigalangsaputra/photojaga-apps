@@ -1,6 +1,6 @@
 # SISTEM INFORMASI MANAJEMEN JASA PEMESANAN PHOTOGRAPHY DAN PENGGAJIAN
 
-Aplikasi web berbasis CodeIgniter 4 untuk memudahkan pengelolaan pemesanan jasa fotografi serta sistem penggajian karyawan/pegawai freelance fotografi. Mendukung pencatatan pesanan, jadwal pemotretan, daftar fotografer, pengelolaan gaji, laporan, dan dashboard monitoring.
+PhotoJaga
 
 ---
 
