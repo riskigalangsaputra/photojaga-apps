@@ -1,6 +1,4 @@
-# SISTEM INFORMASI MANAJEMEN JASA PEMESANAN PHOTOGRAPHY DAN PENGGAJIAN
-
-PhotoJaga
+# PHOTOJAGA -> Sistem Informasi Manajemen Jasa Pemesanan Photography dan Penggajian
 
 ---
 
